@@ -4,9 +4,9 @@ To modify a code from Apption, to create an embedded widget for Notion, which is
 ## Modification
 The code framework is from Apption.
 The changes I made:
-+ Time and date the timer counts down to;
-+ Color of the four parts: Days, Hours, Minutes, and Seconds; and
-+ Distance between the four patterns.
+1. Time and date the timer counts down to;
+2. Color of the four parts: Days, Hours, Minutes, and Seconds; and
+3. Distance between the four patterns.
 
 ## Original Code
 The original code can be found [here](https://github.com/ShoroukAziz/notion_widgets/blob/master/countDown.html).
