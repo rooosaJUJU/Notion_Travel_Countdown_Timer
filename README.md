@@ -13,3 +13,6 @@ The original code can be found [here](https://github.com/ShoroukAziz/notion_widg
 
 ## Modified Code
 The modified code can be found [here](https://github.com/rooosaJUJU/Notion_Travel_Countdown_Timer/blob/main/countdown_timer.html).
+
+## Questions?
+Please feel free to contact us via email should you have any questions or would like to contribute.
