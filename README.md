@@ -7,3 +7,9 @@ The changes I made:
 + Time and date the timer counts down to;
 + Color of the four parts: Days, Hours, Minutes, and Seconds; and
 + Distance between the four patterns.
+
+## Original Code
+The original code can be found [here](https://github.com/ShoroukAziz/notion_widgets/blob/master/countDown.html).
+
+## Modified Code
+The modified code can be found [here](https://github.com/rooosaJUJU/Notion_Travel_Countdown_Timer/blob/main/countdown_timer.html).
