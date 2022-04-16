@@ -16,8 +16,9 @@ The modified code can be found [here](https://github.com/rooosaJUJU/Notion_Trave
 
 ## Application
 [Here](https://deserted-animantarx-5b4.notion.site/3d69acf804b54a9e95f0094621ba0654) is where the widget is embedded—in the "Winter Holidays" page in my Notion.
-### Preview of Application
+### Preview of Application:
 <img width="671" alt="截屏2022-04-16 03 26 32" src="https://user-images.githubusercontent.com/95554583/163668113-cae07a36-93df-418a-a2e7-96a46433474b.png">
+*(The time counted down is in the past.)*
 
 ## Questions?
 Please feel free to contact us via email should you have any questions or would like to contribute.
